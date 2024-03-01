@@ -1,0 +1,6 @@
+__MACOSX/
+data/
+*.zip
+*.h5
+*.txt
+*.json

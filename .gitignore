@@ -1,0 +1,6 @@
+*.zip
+*.h5
+*.txt
+*.json
+*.csv
+data/
